@@ -1,9 +1,9 @@
+package classifier;
+
 public class ReviewReport {
     private ReviewType reviewType;
     private String description;
 
-    public ReviewReport() {
-    }
 
     public ReviewType getReviewType() {
         return reviewType;
